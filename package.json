@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/puvvadaverendra9.lwc-l7kmbvo4-fork-l7ktut50",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KyPwXtXhfyVwGC5Caq74 --open"
+  }
+}
